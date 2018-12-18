@@ -1,0 +1,2 @@
+1) In case the webscraping function doesn't work, we provided a dataset (tidy_data.rds) for you to use with the other functions. 
+2) You have to open the video in the shiny app in the browser or it will crash RStudio. We have no idea why this is the case. 
